@@ -12,3 +12,11 @@ class Genre(models.Model):
 class Books(models.Model):
     # ...
     pass
+
+class Publisher(models.Model):
+    # ...
+    pass
+
+class Bookmage(models.Model):
+    # ... 
+    pass
