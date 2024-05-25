@@ -4,3 +4,5 @@ from django.db import models
 class Auther(models.Model):
     pass
 
+class Genre(models.Model):
+    pass
