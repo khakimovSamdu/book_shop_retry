@@ -6,3 +6,6 @@ class Auther(models.Model):
 
 class Genre(models.Model):
     pass
+
+class Books(models.Model):
+    pass
