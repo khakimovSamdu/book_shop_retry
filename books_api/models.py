@@ -14,11 +14,7 @@ class Genre(models.Model):
     pass
 
 class Books(models.Model):
-    order_id = models.IntegerField()
-    title = models.CharField(max_length=64)
-    page = models.IntegerField()
-    quantity = models.IntegerField()
-    price = models.FloatField()
+    pass
 
 class Publisher(models.Model):
     pass
